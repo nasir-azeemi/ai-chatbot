@@ -1,4 +1,4 @@
-# ai-chatbot
+# cli-chatbot
 
 As a software engineer diving into AI, I had this assumption that chatbots were fundamentally different from traditional applications. They seemed almost magical in how they maintained context and responded intelligently.
 
